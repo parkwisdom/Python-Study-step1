@@ -1,0 +1,3314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2018년 08월 10일 (금)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>전국 육상 중기예보 - 2018년 08월 10일 (금)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
+<description>
+	<header>
+		<title>전국 육상중기예보</title>
+		<tm>201808100600</tm>
+		<wf><![CDATA[이번 예보기간에는 북태평양고기압의 영향으로 대체로 맑은 날이 많겠습니다.<br />기온은 평년(최저기온: 19~24℃, 최고기온: 26~32℃)보다 높겠습니다.<br />강수량은 평년(4~15mm)보다 적겠습니다.<br /><br />* 이번 예보기간에는 낮 최고기온이 35℃ 내외로 오르면서 무더위가 계속 이어지겠고, 밤에는 열대야가 나타나는 곳이 많겠습니다.<br />* 무더위가 장기간 지속됨에 따라 온열질환자 발생 가능성이 매우 높으니, 건강관리에 각별히 유의하기 바라며, 농.축산물과 수산물 관리에도 각별히 유의하기 바랍니다.<br />* 제14호 태풍 '야기(YAGI)'가 오키나와 부근에서 북상 중이며, 이 태풍의 발달과 이동경로에 따라 예보 변동 가능성이 있으니, 앞으로 발표되는 기상정보를 참고하기 바랍니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>춘천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>눈</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>원주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>강릉</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>대전</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>세종</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>홍성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>청주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>목포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>여수</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>27</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>전주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>군산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>부산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>울산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>대구</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>안동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>포항</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>제주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>서귀포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-13 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-14 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-15 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-16 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-08-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-08-20 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
